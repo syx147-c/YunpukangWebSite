@@ -1,0 +1,372 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - link "iPhenome 云谱康" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e7]: iPhenome
+        - text: 云谱康
+      - generic [ref=e402]:
+        - button "获取方案" [ref=e403]
+        - button "菜单" [ref=e547]
+  - main [ref=e43]:
+    - generic [ref=e48]:
+      - generic [ref=e577]:
+        - paragraph [ref=e578]: 转化与健康管理
+        - heading "从科研发现到临床转化与健康管理" [level=1] [ref=e579]
+        - paragraph [ref=e580]: 围绕临床质谱、LDT、IVD 试剂盒研发、健康体检与健康数据管理，构建精准健康服务闭环。
+        - generic [ref=e581]:
+          - link "查看临床转化" [ref=e582] [cursor=pointer]:
+            - /url: /clinical-translation
+            - generic [ref=e583]: 查看临床转化
+          - button "咨询健康管理" [ref=e584]:
+            - generic [ref=e585]: 咨询健康管理
+        - generic [ref=e586]:
+          - generic [ref=e587]:
+            - strong [ref=e588]: LC-MS/MS
+            - generic [ref=e589]: 临床质谱与多组学平台
+          - generic [ref=e590]:
+            - strong [ref=e591]: QC
+            - generic [ref=e592]: 标准化质控与项目流程
+          - generic [ref=e593]:
+            - strong [ref=e594]: 转化
+            - generic [ref=e595]: 科研、临床与健康管理连接
+      - generic [ref=e73]:
+        - button "切换到第 1 张" [ref=e74]
+        - button "切换到第 2 张" [ref=e75]
+        - button "切换到第 3 张" [ref=e76]
+    - generic [ref=e78]:
+      - generic [ref=e79]:
+        - generic [ref=e80]:
+          - paragraph [ref=e81]: Business Entry
+          - heading "从真实合作场景进入云谱康服务" [level=2] [ref=e82]
+        - paragraph [ref=e83]: 围绕科研服务、临床质谱、健康管理与临床转化四类核心业务，帮助不同合作方快速找到项目咨询、方案评估和后续沟通入口。
+      - generic [ref=e84]:
+        - link "科研服务 1 我是科研客户 面向高校、医院科研团队、药企和科研院所，提供代谢组学、蛋白组学与多组学检测分析服务。 查看科研服务" [ref=e85] [cursor=pointer]:
+          - /url: /research-services
+          - generic [ref=e86]:
+            - generic [ref=e87]: 科研服务
+            - generic [ref=e88]: "1"
+          - heading "我是科研客户" [level=3] [ref=e89]
+          - paragraph [ref=e90]: 面向高校、医院科研团队、药企和科研院所，提供代谢组学、蛋白组学与多组学检测分析服务。
+          - generic [ref=e91]: 查看科研服务
+        - link "临床质谱 2 我要做临床质谱合作 围绕 LC-MS/MS 等平台，支持方法学开发、LDT 项目、质量控制与实验室合作。 咨询临床合作" [ref=e92] [cursor=pointer]:
+          - /url: /clinical-mass-spec
+          - generic [ref=e93]:
+            - generic [ref=e94]: 临床质谱
+            - generic [ref=e95]: "2"
+          - heading "我要做临床质谱合作" [level=3] [ref=e96]
+          - paragraph [ref=e97]: 围绕 LC-MS/MS 等平台，支持方法学开发、LDT 项目、质量控制与实验室合作。
+          - generic [ref=e98]: 咨询临床合作
+        - link "健康管理 3 我要做健康管理方案 基于代谢健康评估、慢病风险评估、报告解读和长期追踪，支持健康管理服务设计。 查看健康管理" [ref=e99] [cursor=pointer]:
+          - /url: /health-management
+          - generic [ref=e100]:
+            - generic [ref=e101]: 健康管理
+            - generic [ref=e102]: "3"
+          - heading "我要做健康管理方案" [level=3] [ref=e103]
+          - paragraph [ref=e104]: 基于代谢健康评估、慢病风险评估、报告解读和长期追踪，支持健康管理服务设计。
+          - generic [ref=e105]: 查看健康管理
+        - link "临床转化 4 我要推进临床转化 支持标志物验证、IVD 试剂盒研发、临床队列合作和产学研医转化。 查看临床转化" [ref=e106] [cursor=pointer]:
+          - /url: /clinical-translation
+          - generic [ref=e107]:
+            - generic [ref=e108]: 临床转化
+            - generic [ref=e109]: "4"
+          - heading "我要推进临床转化" [level=3] [ref=e110]
+          - paragraph [ref=e111]: 支持标志物验证、IVD 试剂盒研发、临床队列合作和产学研医转化。
+          - generic [ref=e112]: 查看临床转化
+    - generic [ref=e115]:
+      - generic [ref=e116]:
+        - generic [ref=e117]:
+          - paragraph [ref=e118]: Sample to Insight
+          - heading "从样本到分子数据，再到可讨论的研究结论" [level=2] [ref=e119]
+        - paragraph [ref=e120]: 围绕代谢组学和临床质谱平台，将项目沟通、实验设计、样本检测、数据分析和转化讨论组织成清晰的服务路径。
+      - generic [ref=e122]:
+        - button "科研服务" [ref=e123]
+        - button "临床质谱" [ref=e124]
+        - button "健康管理" [ref=e125]
+        - button "临床转化" [ref=e126]
+      - generic [ref=e127]:
+        - generic [ref=e128]:
+          - paragraph [ref=e129]: 客户问题
+          - paragraph [ref=e130]: 研究方向明确，但检测方案、样本设计和数据分析路径需要专业支持。
+        - generic [ref=e131]:
+          - paragraph [ref=e132]: 云谱康能力
+          - paragraph [ref=e133]: 非靶向代谢组学、靶向定量代谢组学、定量蛋白组学与多组学联合分析。
+        - generic [ref=e134]:
+          - paragraph [ref=e135]: 交付结果
+          - paragraph [ref=e136]: 检测数据、统计分析、通路解释、报告交付与后续讨论。
+      - generic [ref=e137]:
+        - heading "从样本检测到机制与标志物洞察" [level=3] [ref=e138]
+        - generic [ref=e431]:
+          - generic [ref=e432]:
+            - generic [ref=e433]: "1"
+            - generic [ref=e434]:
+              - heading "需求沟通" [level=4] [ref=e435]
+              - paragraph [ref=e436]: 明确研究目标、样本类型、样本量和交付预期。
+          - generic [ref=e437]:
+            - generic [ref=e438]: "2"
+            - generic [ref=e439]:
+              - heading "实验设计" [level=4] [ref=e440]
+              - paragraph [ref=e441]: 匹配非靶向、靶向、蛋白组学或联合分析方案。
+          - generic [ref=e442]:
+            - generic [ref=e443]: "3"
+            - generic [ref=e444]:
+              - heading "样本接收" [level=4] [ref=e445]
+              - paragraph [ref=e446]: 按送样指南完成样本信息核对与前处理安排。
+          - generic [ref=e447]:
+            - generic [ref=e448]: "4"
+            - generic [ref=e449]:
+              - heading "质谱检测" [level=4] [ref=e450]
+              - paragraph [ref=e451]: 依托 LC-MS/MS、Orbitrap 等平台完成检测。
+        - generic [ref=e162]:
+          - generic [ref=e163]: 后续步骤：
+          - generic [ref=e164]: 数据分析
+          - generic [ref=e165]: 报告交付
+          - generic [ref=e166]: 后续合作
+          - link "查看完整流程 →" [ref=e167] [cursor=pointer]:
+            - /url: /research-services
+      - generic [ref=e168]:
+        - button "提交项目需求" [ref=e169]
+        - link "查看科研服务" [ref=e170] [cursor=pointer]:
+          - /url: /research-services
+    - generic [ref=e172]:
+      - generic [ref=e173]:
+        - generic [ref=e174]:
+          - paragraph [ref=e175]: Technology & Quality
+          - heading "技术平台与质量体系共同支撑可靠数据" [level=2] [ref=e176]
+        - paragraph [ref=e177]: 以质谱检测平台、样本前处理、标准品与内标体系、数据库和质控流程构成原型中的技术可信度表达。
+      - generic [ref=e178]:
+        - generic [ref=e193]:
+          - heading "质谱多组学平台" [level=3] [ref=e194]
+          - paragraph [ref=e195]: 整合 LC-MS/MS、Orbitrap、SCIEX Triple Quad 等平台，支持代谢物和蛋白质数据获取。
+          - generic [ref=e196]: 了解更多 →
+        - generic [ref=e213]:
+          - heading "标准化质量体系" [level=3] [ref=e214]
+          - paragraph [ref=e215]: 通过样本前处理、标准品与内标、质控流程和方法学验证思路，提升数据稳定性。
+          - generic [ref=e216]: 了解更多 →
+        - generic [ref=e233]:
+          - heading "数据分析与转化支持" [level=3] [ref=e234]
+          - paragraph [ref=e235]: 结合数据库、统计分析、通路解释和合作转化路径，帮助客户从数据走向应用。
+          - generic [ref=e236]: 了解更多 →
+      - generic [ref=e237]:
+        - generic [ref=e238]: 实验设计
+        - generic [ref=e239]: 样本检测
+        - generic [ref=e240]: 数据分析
+        - generic [ref=e241]: 转化讨论
+    - generic [ref=e243]:
+      - generic [ref=e244]:
+        - generic [ref=e245]:
+          - paragraph [ref=e246]: Applications
+          - heading "围绕科研、临床与健康管理的应用场景" [level=2] [ref=e247]
+        - paragraph [ref=e248]: 用真实合作场景组织信息，让客户先判断"是否适合我的项目"，再进入送样指南、检测清单或咨询表单。
+      - generic [ref=e249]:
+        - generic [ref=e250]:
+          - button "科研发现 面向机制研究和药物研发的分子表型探索。 疾病机制研究 标志物发现 +1" [ref=e251]:
+            - heading "科研发现" [level=3] [ref=e252]
+            - paragraph [ref=e253]: 面向机制研究和药物研发的分子表型探索。
+            - generic [ref=e254]:
+              - generic [ref=e255]: 疾病机制研究
+              - generic [ref=e256]: 标志物发现
+              - generic [ref=e257]: "+1"
+          - button "临床合作 面向临床质谱方法和队列项目的合作路径。 方法开发 临床队列合作 +1" [ref=e258]:
+            - heading "临床合作" [level=3] [ref=e259]
+            - paragraph [ref=e260]: 面向临床质谱方法和队列项目的合作路径。
+            - generic [ref=e261]:
+              - generic [ref=e262]: 方法开发
+              - generic [ref=e263]: 临床队列合作
+              - generic [ref=e264]: "+1"
+          - button "健康管理 面向健康风险评估和长期趋势追踪的服务设计。 慢病风险评估 营养微生态 +1" [ref=e265]:
+            - heading "健康管理" [level=3] [ref=e266]
+            - paragraph [ref=e267]: 面向健康风险评估和长期趋势追踪的服务设计。
+            - generic [ref=e268]:
+              - generic [ref=e269]: 慢病风险评估
+              - generic [ref=e270]: 营养微生态
+              - generic [ref=e271]: "+1"
+          - button "转化研发 面向标志物验证与产业化合作的转化支撑。 IVD 研发 标志物验证 +1" [ref=e272]:
+            - heading "转化研发" [level=3] [ref=e273]
+            - paragraph [ref=e274]: 面向标志物验证与产业化合作的转化支撑。
+            - generic [ref=e275]:
+              - generic [ref=e276]: IVD 研发
+              - generic [ref=e277]: 标志物验证
+              - generic [ref=e278]: "+1"
+        - generic [ref=e279]:
+          - generic [ref=e280]:
+            - generic [ref=e282]:
+              - paragraph [ref=e283]: 场景详情
+              - heading "科研发现" [level=3] [ref=e284]
+              - paragraph [ref=e285]: 支持疾病机制研究、候选标志物发现和药物反应预测等场景，提供非靶向代谢组学、靶向定量和蛋白组学技术方案。适用于高校、医院科研团队和药企早期研发。
+            - generic [ref=e286]:
+              - generic [ref=e287]: 疾病机制研究
+              - generic [ref=e288]: 标志物发现
+              - generic [ref=e289]: 药物反应预测
+            - link "进入科研发现服务 →" [ref=e290] [cursor=pointer]:
+              - /url: /research-services
+              - text: 进入科研发现服务
+              - generic [ref=e291]: →
+          - generic [ref=e292]:
+            - paragraph [ref=e293]: Resource Center
+            - heading "常用资料与方案" [level=3] [ref=e294]
+            - generic [ref=e295]:
+              - generic [ref=e296]:
+                - generic [ref=e297]:
+                  - heading "送样指南" [level=4] [ref=e298]
+                  - paragraph [ref=e299]: 了解样本类型、采集保存、运输和项目前沟通要求。
+                - button "查看送样指南" [ref=e300]
+              - generic [ref=e301]:
+                - generic [ref=e302]:
+                  - heading "检测套餐清单" [level=4] [ref=e303]
+                  - paragraph [ref=e304]: 了解胆汁酸、氨基酸、脂肪酸、甾体激素、TMAO 等靶向套餐。
+                - link "查看检测列表" [ref=e305] [cursor=pointer]:
+                  - /url: /research-services/targeted-metabolomics
+              - generic [ref=e306]:
+                - generic [ref=e307]:
+                  - heading "临床合作方案" [level=4] [ref=e308]
+                  - paragraph [ref=e309]: 了解临床质谱方法开发、LDT 项目和实验室合作路径。
+                - button "咨询临床合作" [ref=e310]
+    - generic [ref=e312]:
+      - generic [ref=e313]:
+        - paragraph [ref=e314]: Evidence
+        - heading "学术资源与信任背书" [level=2] [ref=e315]
+        - paragraph [ref=e316]: 原型阶段仅展示资料结构入口，正式材料确认授权后替换。完整成果请进入对应详情页查看。
+      - generic [ref=e317]:
+        - link "📄 代表性论文 仅展示论文信息结构占位，不编造真实题名、DOI 或期刊信息。 查看论文成果 →" [ref=e318] [cursor=pointer]:
+          - /url: /academic-resources
+          - generic [ref=e320]: 📄
+          - heading "代表性论文" [level=3] [ref=e321]
+          - paragraph [ref=e322]: 仅展示论文信息结构占位，不编造真实题名、DOI 或期刊信息。
+          - generic [ref=e323]: 查看论文成果 →
+        - link "🏅 资质荣誉 正式资质材料确认和授权后，再展示证书缩略图与说明。 查看资质荣誉 →" [ref=e324] [cursor=pointer]:
+          - /url: /about
+          - generic [ref=e326]: 🏅
+          - heading "资质荣誉" [level=3] [ref=e327]
+          - paragraph [ref=e328]: 正式资质材料确认和授权后，再展示证书缩略图与说明。
+          - generic [ref=e329]: 查看资质荣誉 →
+        - link "⚡ 知识产权 保留专利、软著、数据库/方法分类入口，不在首页编造数量。 查看知识产权 →" [ref=e330] [cursor=pointer]:
+          - /url: /about
+          - generic [ref=e332]: ⚡
+          - heading "知识产权" [level=3] [ref=e333]
+          - paragraph [ref=e334]: 保留专利、软著、数据库/方法分类入口，不在首页编造数量。
+          - generic [ref=e335]: 查看知识产权 →
+        - link "🤝 合作单位 仅保留待授权 Logo 占位，不展示真实医院、高校或客户名称。 查看合作网络 →" [ref=e336] [cursor=pointer]:
+          - /url: /about
+          - generic [ref=e338]: 🤝
+          - heading "合作单位" [level=3] [ref=e339]
+          - paragraph [ref=e340]: 仅保留待授权 Logo 占位，不展示真实医院、高校或客户名称。
+          - generic [ref=e341]: 查看合作网络 →
+    - generic [ref=e343]:
+      - paragraph [ref=e344]: Start a Project
+      - heading "把研究问题转化为可执行的质谱多组学项目" [level=2] [ref=e345]
+      - paragraph [ref=e346]: 提交研究方向、样本类型、合作场景和预期目标，我们将协助梳理检测方案、项目流程与后续转化路径。
+      - generic [ref=e347]:
+        - button "提交项目需求" [ref=e348]
+        - button "咨询合作" [ref=e349]
+    - generic [ref=e351]:
+      - heading "网站综合声明" [level=2] [ref=e352]
+      - paragraph [ref=e353]: 本网站涉及的科研检测服务仅用于科研用途，不作为临床诊断依据。涉及健康管理的内容仅用于健康风险评估、报告解读和生活方式管理参考，不替代医生诊断和治疗建议。具体检测项目适用范围以公司资质、产品注册状态及合同约定为准。
+  - contentinfo [ref=e354]:
+    - generic [ref=e356]:
+      - generic [ref=e357]:
+        - generic [ref=e358]:
+          - paragraph [ref=e359]: iPhenome
+          - heading "iPhenome / 云谱康" [level=2] [ref=e360]
+          - paragraph [ref=e361]: 尖端质谱多组学科技服务与临床转化专家
+          - paragraph [ref=e362]: Cutting-edge multiomics technologies enable precision medicine research
+        - generic [ref=e363]:
+          - heading "快速导航" [level=3] [ref=e364]
+          - generic [ref=e365]:
+            - link "首页" [ref=e366] [cursor=pointer]:
+              - /url: /
+            - link "科研服务" [ref=e367] [cursor=pointer]:
+              - /url: /research-services
+            - link "临床质谱" [ref=e368] [cursor=pointer]:
+              - /url: /clinical-mass-spec
+            - link "健康管理" [ref=e369] [cursor=pointer]:
+              - /url: /health-management
+            - link "临床转化" [ref=e370] [cursor=pointer]:
+              - /url: /clinical-translation
+            - link "技术平台" [ref=e371] [cursor=pointer]:
+              - /url: /technology-platform
+            - link "学术资源" [ref=e372] [cursor=pointer]:
+              - /url: /academic-resources
+            - link "关于我们" [ref=e373] [cursor=pointer]:
+              - /url: /about
+            - link "加入我们" [ref=e374] [cursor=pointer]:
+              - /url: /careers
+        - generic [ref=e375]:
+          - heading "联系方式" [level=3] [ref=e376]
+          - generic [ref=e377]:
+            - paragraph [ref=e378]:
+              - generic [ref=e379]: 地址
+              - text: 大连高新技术产业园区信达街57号 生命科学产业园
+            - link "电话 0411-82287117" [ref=e380] [cursor=pointer]:
+              - /url: tel:0411-82287117
+              - generic [ref=e381]: 电话
+              - text: 0411-82287117
+            - link "邮箱 marcom@imetabolomics.cn" [ref=e382] [cursor=pointer]:
+              - /url: mailto:marcom@imetabolomics.cn
+              - generic [ref=e383]: 邮箱
+              - text: marcom@imetabolomics.cn
+        - generic [ref=e384]:
+          - heading "二维码" [level=3] [ref=e385]
+          - generic [ref=e386]:
+            - generic [ref=e387]:
+              - generic [ref=e388]: QR
+              - paragraph [ref=e389]: 云谱康微信公众号
+              - paragraph [ref=e390]: 公众号二维码占位
+            - generic [ref=e391]:
+              - generic [ref=e392]: QR
+              - paragraph [ref=e393]: 科研服务咨询 / 健康管理咨询
+              - paragraph [ref=e394]: 咨询二维码占位
+      - generic [ref=e395]:
+        - paragraph [ref=e396]: 云谱康（大连）生物科技有限公司 © 2020-2026 版权所有
+        - generic [ref=e397]:
+          - generic [ref=e398]: ICP 备案号：待补充
+          - generic [ref=e399]: 公安联网备案号：待补充
+          - generic [ref=e400]: 隐私政策
+          - generic [ref=e401]: 网站地图
+  - dialog [active] [ref=e597]:
+    - generic [ref=e598]:
+      - generic [ref=e599]:
+        - paragraph [ref=e600]: 咨询合作
+        - heading "获取方案 / 提交项目需求" [level=2] [ref=e601]
+      - button "关闭咨询表单" [ref=e602]: 关闭
+    - generic [ref=e604]:
+      - generic [ref=e605]:
+        - generic [ref=e606]:
+          - text: 姓名
+          - textbox "姓名" [ref=e607]
+        - generic [ref=e608]:
+          - text: 单位/机构
+          - textbox "单位/机构" [ref=e609]
+        - generic [ref=e610]:
+          - text: 职位/身份
+          - textbox "职位/身份" [ref=e611]
+        - generic [ref=e612]:
+          - text: 手机
+          - textbox "手机" [ref=e613]
+        - generic [ref=e614]:
+          - text: 邮箱
+          - textbox "邮箱" [ref=e615]
+        - generic [ref=e616]:
+          - text: 咨询类型
+          - combobox "咨询类型" [ref=e617]:
+            - option "请选择" [selected]
+            - option "科研服务"
+            - option "临床质谱"
+            - option "健康管理"
+            - option "临床转化"
+            - option "商务合作"
+            - option "招聘咨询"
+        - generic [ref=e618]:
+          - text: 样本类型
+          - textbox "样本类型" [ref=e619]
+        - generic [ref=e620]:
+          - text: 预计样本量
+          - textbox "预计样本量" [ref=e621]
+      - generic [ref=e622]:
+        - text: 项目需求
+        - textbox "项目需求" [ref=e623]
+      - generic [ref=e624]:
+        - checkbox "需要回电" [ref=e625]
+        - generic [ref=e626]: 需要回电
+      - paragraph [ref=e627]: 提交即表示您同意云谱康根据隐私政策处理您的联系信息，用于项目沟通、方案反馈和服务咨询。涉及健康管理内容的信息仅用于咨询沟通，不作为临床诊断和治疗依据。
+      - button "提交咨询" [ref=e628]

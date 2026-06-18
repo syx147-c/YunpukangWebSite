@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# IDE
+.vscode/
+.idea/
+.trae/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# Logs & errors
+*.log
+*.err
+npm-debug.log*
+
+# Temp files
+*.tmp
+*.temp
+
+# Playwright / browser test artifacts
+.playwright-mcp/
+
+# Screenshots & debug snapshots
+*.png
+*.txt
+!contact-modal-open.txt
+
+# Dev docs (keep only architecture doc)
+docs/codex-*.md
+
+# Original video sources (large binaries, not needed for build)
+video/
